@@ -1,0 +1,4 @@
+package scraping
+
+func main() {
+}

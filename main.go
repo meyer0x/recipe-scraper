@@ -1,8 +1,8 @@
 package main
 
 import (
-	"recipe-generator/models"
-	"recipe-generator/scraping/marmiton"
+	"recipe-scraper/models"
+	"recipe-scraper/scraping/marmiton"
 )
 
 func main() {

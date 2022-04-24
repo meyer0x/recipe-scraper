@@ -2,8 +2,8 @@ package marmiton
 
 import (
 	"fmt"
-	"recipe-generator/models"
-	"recipe-generator/utils"
+	"recipe-scraper/models"
+	"recipe-scraper/utils"
 	"strconv"
 
 	"github.com/gocolly/colly"

@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"recipe-generator/models"
+	"recipe-scraper/models"
 	"strings"
 )
 

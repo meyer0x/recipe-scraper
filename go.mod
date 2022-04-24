@@ -1,4 +1,4 @@
-module recipe-generator
+module recipe-scraper
 
 go 1.18
 
